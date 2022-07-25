@@ -5,6 +5,12 @@
       "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
       "deprecated": true
     },
+      {
+      "name": "EOSBEAR/USDC",
+      "address": "2nBXfHevA3tahft5mEe6bHtaKEhwhAHkWpnbiufXyo5W",
+      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+      "deprecated": true
+    },
     {
       "name": "EOSBULL/USDC",
       "address": "8GyEm8ZMnwUNfZQeBZwse3uYGwG2XGymv6zES1thmsq3",
